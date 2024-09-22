@@ -1,6 +1,3 @@
-# Re-creating the content for the README.md as a text file
-
-readme_content = """
 # Food Delivery Backend
 
 ## Introduction
